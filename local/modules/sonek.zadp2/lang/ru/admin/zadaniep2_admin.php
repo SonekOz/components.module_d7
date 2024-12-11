@@ -1,0 +1,23 @@
+<?php
+	$MESS['ACCESS_DENIED'] = 'Доступ запрещен!!!';
+	$MESS['rub_save_error'] = 'Произошла ошибка!';
+	$MESS['rub_no_rubric'] = 'Такого элемента не существует!';
+	$MESS['rub_del_err'] = 'Ошибка удаления';
+	$MESS['rub_save_error'] = 'Ошибка сохранения';
+	$MESS['rub_nav'] = 'Количество элементов на странице: ';
+	$MESS['rub_name'] = 'Название';
+	$MESS['rub_site'] = 'Языковой ID';
+	$MESS['rub_timestamp'] = 'Время последнего редактирования';
+	$MESS['rub_edit'] = 'Редактировать';
+	$MESS['rub_del'] = 'Удалить';
+	$MESS['rub_del_conf'] = 'Подтверждение удаления';
+	$MESS['rub_check'] = 'Проверка';
+	$MESS['MAIN_ADMIN_LIST_SELECTED'] = 'Кол-во элементов';
+	$MESS['MAIN_ADMIN_LIST_CHECKED'] = 'Счетчик выбранных элементов';
+	$MESS['MAIN_ADMIN_LIST_DELETE'] = 'Удалить выбранные элементы';
+	$MESS['MAIN_ADMIN_LIST_ACTIVATE'] = 'Активировать выбранные элементы';
+	$MESS['MAIN_ADMIN_LIST_DEACTIVATE'] = 'Деактивировать выбранные элементы';
+	$MESS['rub_title'] = 'Заголовок';
+	$MESS['rub_f_site'] = 'Языковой ID';
+	$MESS['rub_f_name'] = 'Название';
+	$MESS['rub_f_timestamp_x'] = 'Время последнего редактирования';
